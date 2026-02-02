@@ -3,5 +3,3 @@ Belajar Git Source Control
 Nama Lengkap Kamu : hanif faiz alfarisy
 
 Saya senang belajar Git Source Control di Gamelab Indonesia
-
-commit 1
